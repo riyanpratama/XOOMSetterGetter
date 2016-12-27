@@ -1,0 +1,29 @@
+public var StartPeriod: Date!
+public var EndPeriod: Date!
+public var CoverageType: String!
+
+public func setStartperiod(startPeriod: Date) { 
+	self.StartPeriod = startPeriod
+}
+
+public func setEndperiod(endPeriod: Date) { 
+	self.EndPeriod = endPeriod
+}
+
+public func setCoveragetype(coverageType: String) { 
+	self.CoverageType = coverageType
+}
+
+
+public func getStartperiod() -> Date {
+	return StartPeriod
+}
+
+public func getEndperiod() -> Date {
+	return EndPeriod
+}
+
+public func getCoveragetype() -> String {
+	return CoverageType
+}
+
