@@ -1,5 +1,5 @@
 # XOOMSetterGetter
-This code will generate setter and getter in Swift 2.3 function from properties (java). I know it sounds awkward, but it will help you! Alot!
+This code will generate setter and getter in Swift 2.3 function from your class properties (java). I know it sounds awkward, but it will help you! Alot!
 
  > Copy-paste FTW using XOOM 
 
