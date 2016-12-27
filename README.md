@@ -10,12 +10,14 @@ Xoom is just personal framework for developing iOS application based on android'
 - Your java code
 
 ## How to use
-1. Clone this repo `git clone https://github.com/riyanpratama/XOOMSetterGetter.git`
+1. Clone this repo `$git clone https://github.com/riyanpratama/XOOMSetterGetter.git`
 2. Go into your folder, there are three files you need to know. First, **setget.py** the main file, **input.txt** as input file, and **output.txt** that you would copyy for your project.
 3. Copy your class properties (java), e.g.
 	```
 	public Date StartPeriod;
+	
 	public Date EndPeriod;
+	
 	public String CoverageType;
 	```
 4. Paste into your **input.txt**
